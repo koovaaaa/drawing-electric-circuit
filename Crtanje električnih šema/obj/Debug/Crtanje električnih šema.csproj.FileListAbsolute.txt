@@ -1,0 +1,11 @@
+C:\Users\kovard\source\repos\Crtanje električnih šema\Crtanje električnih šema\bin\Debug\Crtanje električnih šema.exe.config
+C:\Users\kovard\source\repos\Crtanje električnih šema\Crtanje električnih šema\bin\Debug\Crtanje električnih šema.exe
+C:\Users\kovard\source\repos\Crtanje električnih šema\Crtanje električnih šema\bin\Debug\Crtanje električnih šema.pdb
+C:\Users\kovard\source\repos\Crtanje električnih šema\Crtanje električnih šema\obj\Debug\Crtanje električnih šema.csprojAssemblyReference.cache
+C:\Users\kovard\source\repos\Crtanje električnih šema\Crtanje električnih šema\obj\Debug\Crtanje_električnih_šema.Properties.Resources.resources
+C:\Users\kovard\source\repos\Crtanje električnih šema\Crtanje električnih šema\obj\Debug\Crtanje električnih šema.csproj.GenerateResource.cache
+C:\Users\kovard\source\repos\Crtanje električnih šema\Crtanje električnih šema\obj\Debug\Crtanje električnih šema.csproj.CoreCompileInputs.cache
+C:\Users\kovard\source\repos\Crtanje električnih šema\Crtanje električnih šema\obj\Debug\Crtanje električnih šema.exe
+C:\Users\kovard\source\repos\Crtanje električnih šema\Crtanje električnih šema\obj\Debug\Crtanje električnih šema.pdb
+C:\Users\kovard\source\repos\Crtanje električnih šema\Crtanje električnih šema\obj\Debug\Crtanje_električnih_šema.Crtanje.resources
+C:\Users\kovard\source\repos\Crtanje električnih šema\Crtanje električnih šema\obj\Debug\Crtanje_električnih_šema.Tekst.resources
